@@ -1,2 +1,2 @@
 # Ludo
-Ludo game using graphics in C
+Ludo game using graphics in C++.
